@@ -27,6 +27,7 @@ _Please click on the images on right side to view my solution._
 
 
 ### # Task-2 : Prediction using Unsupervised ML (Level - Beginner)
+_Please click on the images on right side to view my solution._
 
 1. From the given ‘Iris’ dataset, predict the optimum number of clusters and represent it visually.
 1. Use R or Python or perform this task.
